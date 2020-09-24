@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "M01_DV01_Cubethon",
+"productVersion": "0.1",
+"dataUrl": "GS_Observer_WebBuild.data.unityweb",
+"wasmCodeUrl": "GS_Observer_WebBuild.wasm.code.unityweb",
+"wasmFrameworkUrl": "GS_Observer_WebBuild.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
